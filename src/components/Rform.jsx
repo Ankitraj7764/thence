@@ -29,6 +29,9 @@ function Rform() {
                         <div>
                             <img src='./logo.png' alt="" />
                         </div>
+                        <div >
+                           <a href="/">X</a>
+                        </div>
                     </div>
                 </div>
 
